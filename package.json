@@ -32,7 +32,7 @@
     "glob": "^10.2.6",
     "prettier": "3.3.3",
     "typescript": "^5.0.0",
-    "vitest": "^2.0.2"
+    "vitest": "^2.0.3"
   },
   "release": {
     "branches": [
